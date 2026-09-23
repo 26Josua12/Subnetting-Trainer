@@ -1,6 +1,6 @@
 # subnet-trainer
 
-Subnetting-Trainer fürs Terminal – zur Vorbereitung auf die **CCNA-Prüfung**.
+Subnetting-Trainer fürs Terminal
 
 Der Trainer stellt dir zufällige, realistische Subnetting-Aufgaben. Antwortest du falsch,
 erklärt er dir die Lösung Schritt für Schritt mit der Magic-Number-/Blockgrößen-Methode.
